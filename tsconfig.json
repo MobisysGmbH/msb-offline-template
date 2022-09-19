@@ -1,0 +1,16 @@
+{
+  "include": [
+    "./src/**/*"
+  ],
+  "compilerOptions": {
+    "outFile": "dist/TMPLTX0000.js",
+    "lib": [
+      "es2017"
+    ],
+    "noEmitOnError": true,
+    "noUnusedLocals": true,
+    "removeComments": true,
+    "target": "es5",
+    "experimentalDecorators": true
+  }
+}

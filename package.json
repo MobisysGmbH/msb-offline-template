@@ -1,0 +1,41 @@
+{
+  "name": "msb-offline-v2-template",
+  "version": "1.0.0",
+  "description": "MSB Offline V2 API template",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Building offline application...\" && tsc && echo \"Successfully completed build.\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MobisysGmbH/msb-offline-v2-template.git"
+  },
+  "keywords": [
+    "MSB",
+    "Mobisys",
+    "MSB",
+    "App",
+    "Mobisys",
+    "GmbH",
+    "Mobile",
+    "Informationssysteme",
+    "Mobisys",
+    "Solution",
+    "Builder",
+    "MSB",
+    "Offline",
+    "Mobisys",
+    "Template"
+  ],
+  "author": "Mobisys GmbH <info@mobisys.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MobisysGmbH/msb-offline-v2-template/issues"
+  },
+  "homepage": "https://github.com/MobisysGmbH/msb-offline-v2-template#readme",
+  "devDependencies": {
+    "@mobisysgmbh/msb-offline-api": "^2.0.0",
+    "typescript": "4.8.3"
+  }
+}
