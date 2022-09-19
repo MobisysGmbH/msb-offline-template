@@ -11,7 +11,7 @@ Please reach out to us if you need assistance on how to use this package: https:
 git clone https://github.com/MobisysGmbH/msb-offline-v2-template.git
 ```
 
-1. update application name in `tsconfig.json`
+2. update application name in `tsconfig.json`
 
 
 ```json
